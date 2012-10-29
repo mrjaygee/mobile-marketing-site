@@ -57,7 +57,7 @@
 		    <img src="_images/masthead_04.jpg" alt="" title="Easy to use. Packed with powerful features." />
 		    <img src="_images/masthead_05.jpg" title="100% web and mobile-based tools." />
 		</div>
-		<a href="#" class="button sunny">Sign Up Free!<br><small>Free &amp; paid plans available.</small></a>
+		<a href="sign_up.php" class="button sunny">Sign Up Free!<br><small>Free &amp; paid plans available.</small></a>
 	</div>
 <!-- END MAIN CONTENT -->
 	<div id="home-menu" class="full-width">

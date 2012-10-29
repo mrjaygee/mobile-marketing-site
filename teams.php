@@ -1,5 +1,5 @@
 <?php 
-	$title="Teams & Clubs | TeamSnap";
+	$title="Teams & Groups | TeamSnap";
 	$description="TeamSnap";
 	$page="frame";
 	$h1="H1 description goes here";
@@ -46,7 +46,7 @@ $(function() {
 					<h6 class="remove-bottom" style="background:url(_images/features-arrow.gif) 85% 100% no-repeat;background-size: 30px 30px;">Check out<br>the features
 				</div>
 				<div class="one-half column omega">
-					<a href="#" class="button sunny half">Sign Up Free!</a>
+					<a href="sign_up.php" class="button sunny half">Sign Up Free!</a>
 				</div>
 			</div>
 			<div class="clear"></div>	
@@ -139,7 +139,7 @@ $(function() {
 							</ul>
 							<div class="sixteen columns add-bottom">
 								<h6 class="center green add-bottom">Ready? Get Started Now. </h6>
-								<a href="#" class="button sunny">Sign Up Free!</a>
+								<a href="sign_up.php" class="button sunny">Sign Up Free!</a>
 							</div>
 						</div>
 						
@@ -172,7 +172,7 @@ $(function() {
 							</ul>
 							<div class="sixteen columns add-bottom">
 								<h6 class="center green add-bottom">Ready? Get Started Now. </h6>
-								<a href="#" class="button sunny">Sign Up</a>
+								<a href="sign_up.php" class="button sunny">Sign Up</a>
 							</div>
 						</div>
 					</div>
@@ -210,7 +210,7 @@ $(function() {
 							</ul>
 							<div class="sixteen columns add-bottom">
 								<h6 class="center green add-bottom">Ready? Get Started Now. </h6>
-								<a href="#" class="button sunny">Sign Up</a>
+								<a href="sign_up.php" class="button sunny">Sign Up</a>
 							</div>
 						</div>
 					</div>

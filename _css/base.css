@@ -230,7 +230,7 @@
 	input[type="email"],
 	textarea,
 	select {
-		border: 1px solid #ccc;
+		border: 1px solid #CCC;
 		padding: 6px 4px;
 		outline: none;
 		-moz-border-radius: 2px;
@@ -238,12 +238,10 @@
 		border-radius: 2px;
 		font: 13px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 		color: #777;
-		margin: 0 0 0 32px;
-		width: 210px;
+		margin: 0 0 20px 0;
 		max-width: 100%;
 		display: block;
-		margin-bottom: 20px;
-		background: #fff; }
+		background: #FFF; }
 	select {
 		padding: 0; }
 	input[type="text"]:focus,
@@ -262,7 +260,6 @@
 		display: block;
 		font-weight: bold;
 		font-size: 13px;
-		margin-left: 32px;
 		padding-bottom: 10px;  }
 	select {
 		width: 220px; }
@@ -284,6 +281,14 @@
 	.green { color: #7FBF30; }
 
 /* ==|== media queries ====================================================== */
+
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	label,
+	legend {
+		font-size: 10px;
+	}
+}
 
 @media
 only screen and (-webkit-min-device-pixel-ratio: 2),
