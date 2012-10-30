@@ -48,7 +48,7 @@ $(function() {
 	<div class="container">
 		<div class="sixteen columns remove-top">
 			<h5 class="add-top">Everything you need to manage your League or Club.</h5>
-			<p>We make league management easy by streamlining administration and giving you the features that matter most.</p>
+			<p>We make league management easy by streamlining administration and giving you the features that matter most. Have more questions? Check out our <a href="leagues_faq.php">League FAQ</a> or <a href="contact.php">Contact Us</a>.
 			<div class="row">
 				<div class="one-half column alpha">
 					<h6 class="remove-bottom" style="background:url(_images/features-arrow.gif) 85% 100% no-repeat;background-size: 30px 30px;">Check out<br>the features
@@ -118,7 +118,7 @@ $(function() {
 					<h4>League Solution</h4>
 					<div><!-- needs empty div because accordion function destroys skeleton.css formatting --> 
 						<div class="container add-top">
-							<p>We offer a simple pricing structure that fits organizations of all sizes. See our FAQ for specific billing questions.</p>
+							<p>We offer a simple pricing structure that fits organizations of all sizes. See our <a href="leagues_faq.php">FAQ</a> for specific billing questions.</p>
 							<h5 class="green">Annual Plan: $249</h5>
 							<h5 class="green">Monthly Plan: $31.99</h5>
 							<hr class="add-top remove-bottom">
@@ -168,42 +168,52 @@ $(function() {
 							</div>
 						</div>
 					</div>
-					<h4>Premium Plan</h4>
-					<div><!-- needs empty div because accordion function destroys skeleton.css formatting -->
+					<h4>Custom Solution</h4>
+					<div><!-- needs empty div because accordion function destroys skeleton.css formatting --> 
 						<div class="container add-top">
-							<p>You get everything! Great for teams that need a greater degree of customization and statistics.</p>
-							<h5 class="green">Annual Plan: $79</h5>
-							<h5 class="green">Monthly Plan: $9.95 per team</h5>
-							<h5>What's Included?</h5>
-							<ul class="bullet-check">
-								<li style="list-style-image:url(http://www.teamsnap.com/_images/icon-feature-roster.gif);">Team Roster</li>
-								<li style="list-style-image:url(http://www.teamsnap.com/_images/icon-feature-schedule.gif);">Schedule</li>
-								<li style="list-style-image:url(http://www.teamsnap.com/_images/icon-feature-messages.gif);">Messages</li>
-								<li style="list-style-image:url(http://www.teamsnap.com/_images/icon-feature-security.gif);">Privacy &amp; Security</li>
-								<li style="list-style-image:url(http://www.teamsnap.com/_images/icon-feature-fansite.gif);">Team Home Page</li>
-								<li style="list-style-image:url(http://www.teamsnap.com/_images/icon-facebook-16.png);">Facebook Integration</li>
-								<li style="list-style-image:url(http://www.teamsnap.com/_images/icon-feature-availability.gif);">Player Availability</li>
-								<li style="list-style-image:url(http://www.teamsnap.com/_images/icon-feature-email.gif);">Email Reminders</li>
-								<li style="list-style-image:url(http://www.teamsnap.com/_images/icon-feature-phone.gif);">Text Messaging</li>
-								<li style="list-style-image:url(http://www.teamsnap.com/_images/icon-feature-photos.gif);">Photos &amp; Files</li>
-								<li style="list-style-image:url(http://www.teamsnap.com/_images/icon-feature-payments.gif);">Payment Tracking</li>
-								<li style="list-style-image:url(http://www.teamsnap.com/_images/icon-feature-payments.gif);">Online Collections</li>
-								<li style="list-style-image:url(http://www.teamsnap.com/_images/icon-feature-refreshments.gif);">Refreshments</li>
-								<li style="list-style-image:url(http://www.teamsnap.com/_images/icon-feature-support.gif);">Priority Email Support</li>
-								<li style="list-style-image:url(http://www.teamsnap.com/_images/icon-feature-advertising.gif);">No Banner Advertising</li>
-								<li style="list-style-image:url(http://www.teamsnap.com/_images/icon-feature-storage.gif);">Season Archiving</li>
-								<li style="list-style-image:url(http://www.teamsnap.com/_images/icon-feature-customization.gif);">Store Customization</li>
-								<li style="list-style-image:url(http://www.teamsnap.com/_images/icon-feature-weather.gif);">Weather Forecasts</li>
-								<li style="list-style-image:url(http://www.teamsnap.com/_images/icon-feature-statistics.gif);">Statistics</li>
-								<li style="list-style-image:url(http://www.teamsnap.com/_images/icon-feature-smiley.gif);">Custom Domain Name</li>
-								<li style="list-style-image:url(http://www.teamsnap.com/_images/icon-feature-customize_logo.gif);">Customized Team Logo</li>
-								<li style="list-style-image:url(http://www.teamsnap.com/_images/icon-feature-customize_colors.gif);">Customized Team Colors</li>
-								<li style="list-style-image:url(http://www.teamsnap.com/_images/icon-feature-customize_player_info.gif);">Customized Player Fields</li>
-							</ul>
-							<div class="sixteen columns add-bottom">
-								<h6 class="center green add-bottom">Ready? Get Started Now. </h6>
-								<a href="sign_up.php" class="button sunny">Sign Up</a>
-							</div>
+							<p>Contact us and we'll provide a custom quote for your League or Club solution.</p>
+							<a href="sign_up.php" class="button sunny">Contact Us<br><small>for a custom quote</small></a>
+							<hr class="add-top remove-bottom">
+							<table id="chart" class="add-top add-bottom" cellpadding="0" cellspacing="0" width="100%">
+								<tbody>
+									<tr>
+										<td width="15%"><img src="http://www.teamsnap.com/_images/icon-feature-maxteams.png"></td>
+										<td width="75%">Max Teams</td>
+										<td width="10%">Unlimited</td>
+									</tr>
+									<tr>
+										<td><img src="http://www.teamsnap.com/_images/icon-feature-maxplayers.png"></td>
+										<td>Max Players</td>
+										<td>Unlimited</td>
+									</tr>
+									<tr>
+										<td><img src="http://www.teamsnap.com/_images/icon-feature-publicwebsite.png"></td>
+										<td>Public Website</td>
+										<td><img src="http://www.teamsnap.com/_images/bullet-checkmark.gif"></td>
+									</tr>
+									<tr>
+										<td><img src="http://www.teamsnap.com/_images/icon-feature-schedule.gif"></td>
+										<td>Centralized Schedule</td>
+										<td><img src="http://www.teamsnap.com/_images/bullet-checkmark.gif"></td>
+									</tr>
+									<tr>
+										<td><img src="http://www.teamsnap.com/_images/icon-feature-roster.gif"></td>
+										<td>Roster Management</td>
+										<td><img src="http://www.teamsnap.com/_images/bullet-checkmark.gif"></td>
+									</tr>
+									<tr>
+										<td><img src="http://www.teamsnap.com/_images/icon-feature-messages.gif"></td>
+										<td>League Messaging</td>
+										<td><img src="http://www.teamsnap.com/_images/bullet-checkmark.gif"></td>
+									</tr>
+									<tr>
+										<td><img src="http://www.teamsnap.com/_images/icon-feature-registration.png"></td>
+										<td>Registration</td>
+										<td><img src="http://www.teamsnap.com/_images/bullet-checkmark.gif"></td>
+									</tr>
+								</tbody>
+							</table>
+							<hr class="remove-top add-bottom">
 						</div>
 					</div>
 				</div>		    

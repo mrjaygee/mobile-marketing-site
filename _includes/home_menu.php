@@ -18,7 +18,7 @@
 	</ul>
 	<ul id="secondary">
 		<li><a href="sign_in.php">Sign In</a></li>
-		<li><a href="#">FAQ</a></li>
+		<li><a href="faq.php">FAQ</a></li>
 		<li><a href="#">Help &amp; Support</a></li>
 	</ul>
 </nav>
